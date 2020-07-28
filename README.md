@@ -1,4 +1,9 @@
 # Password-Generator
+<a href="https://alexemrob.github.io/Password-Generator/">Click to Visit My Page!</a>
+<br>
+<img src="./assets/images/SSpasGen.png" alt="password generator screenshot">
+
+
 <p>Follow the prompts to dertermine: <ul><li>how many characters you would like the password to be (options ranging 8-100)</li>
   <li>would you like to include numbers</li>
   <li>would you like to include special characters</li>
