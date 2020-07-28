@@ -10,6 +10,7 @@ body,
   height: 100%;
   margin: 0;
   padding: 0;
+  background-color: black;
 }
 
 body {
@@ -72,15 +73,27 @@ header {
   clear: both;
 }
 
+h1 {
+  font-family: 'Press Start 2P', cursive;
+  color: whitesmoke;
+}
+
+h2 {
+  text-align: center;
+  font-family: 'Orbitron', sans-serif;
+  text-shadow: 2px 2px 5px grey;
+  font-weight: lighter;
+}
+
 .btn {
   border: none;
-  background-color: hsl(360, 91%, 36%);
+  background-color: darkred;
   border-radius: 25px;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 6px 0px rgba(0, 0, 0, 0.2) 0px 1px 1px
     0px;
   color: hsl(0, 0%, 100%);
   display: inline-block;
-  font-size: 22px;
+  font-size: 15px;
   line-height: 22px;
   margin: 16px 16px 16px 20px;
   padding: 14px 34px;
